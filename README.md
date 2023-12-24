@@ -31,13 +31,16 @@ Resources used to complete activity:
         Compiling, Training, and Evaluating 
 
           - How many neurons, layers, and activation functions did you select for your neural network model, and why?
-    
+
+            My neural network model contained 3 hidden layers and an output layer. Multiple hidden layers allow the neural network to learn hierarchial representations of the input data. Each layer can capture different levels of abstraction, enabling the model to understand complex patterns and relationships.
           - Were you able to achieve the target model performance?
 
             I was unable to make 3 successful attempts at achieving the target model performance. The quality and quantity of my data could have played a crucial role in this. Insufficient or noisy data can negatively impact the model's ability to generalize to new data. Something I could have donw is ensure that my dataset was representative and contained enough samples for each class.
     
           - What steps did you take in your attempts to increase model performance?
-    
+
+            The steps that I took in my attempts to increase model performance included, adding a third hidden layer, trying the method of adding an EarlyStopping to avoid overfitting, and lastly adjusting the numbers of the layers and epoch. Unfortunately, even with all of these added changes, I was unable to successfuly achieve the target performance of 75% or better.
+
         SUMMARY:
 
         In summary, the deep learning model developed for Alphabet Soup showed [insert performance metrics]. While the model demonstrates a reasonable
