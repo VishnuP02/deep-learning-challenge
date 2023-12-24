@@ -4,7 +4,7 @@ Resources used to complete activity:
   - Lecture Slides, Class recordings, AskBCS session with Learning Assistant Sathwik Kesappragada
 
 
-                                    Report on Neural Network Model Performance for Alphabet Soup
+                              Report on Neural Network Model Performance for Alphabet Soup
 
         Overview of the Analysis:
 
