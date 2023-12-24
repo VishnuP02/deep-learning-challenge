@@ -4,7 +4,7 @@ Resources used to complete activity:
   - Lecture Slides, Class recordings, AskBCS session with Learning Assistant Sathwik Kesappragada
 
 
-                                                Report on Neural Network Model Performance for Alphabet Soup
+                                    Report on Neural Network Model Performance for Alphabet Soup
 
 Overview of the Analysis:
 The purpose of this analysis is to develop a deep learning model for Alphabet Soup that can predict whether applicants will be successful in receiving funding based on various features. The goal is to create an efficient classification model that aids in decision-making for allocating resources.
