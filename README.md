@@ -6,19 +6,25 @@ Resources used to complete activity:
 
                               Report on Neural Network Model Performance for Alphabet Soup
 
-        Overview of the Analysis:
+        OVERVIEW OF THE ANALYSIS:
 
         The purpose of this analysis is to develop a deep learning model for Alphabet Soup that can predict whether applicants will be successful in
         receiving funding based on various features. The goal is to create an efficient classification model that aids in decision-making for allocating
         resources.
 
-        Summary:
+        RESULTS:
+
+        Data Processing
+
+        Compiling, Training, and Evaluating 
+
+        SUMMARY:
 
         In summary, the deep learning model developed for Alphabet Soup showed [insert performance metrics]. While the model demonstrates a reasonable
         predictive capability, there's room for improvement. To enhance performance, experimenting with different architectures, hyperparameters, and
         conducting further feature engineering could be beneficial.
 
-        Recommendation:
+        RECOMMENDATION:
 
         Considering the nature of the classification problem, an alternative model like a gradient boosting algorithm (e.g., XGBoost or LightGBM)
         could be explored. Ensemble methods often perform well in tabular data classification tasks. They are robust, handle non-linearity well, and
