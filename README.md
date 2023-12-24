@@ -17,16 +17,24 @@ Resources used to complete activity:
         Data Processing
 
           - What variable(s) are the target(s) for your model?
+
+            The target variable is the "IS_SUCCESSFUL" column, indicating whether the funding application was successful or not
     
           - What variable(s) are the features for your model?
+
+            Features include various columns such as "APPLICATION_TYPE", "AFFILIATION", "CLASSIFICATION", "USE_CASE", "ORGANIZATION", "STATUS", "INCOME_AMT", "SPECIAL_CONSIDERATIONS", and "ASK_AMT".
     
           - What variable(s) should be removed from the input data because they are neither targets nor features?
+
+            The "EIN" (Employer Identification Number" and "NAME" columns are typically removed as they don't contribute to the predictive power of the model.
     
         Compiling, Training, and Evaluating 
 
           - How many neurons, layers, and activation functions did you select for your neural network model, and why?
     
           - Were you able to achieve the target model performance?
+
+            I was unable to make 3 successful attempts at achieving the target model performance. The quality and quantity of my data could have played a crucial role in this. Insufficient or noisy data can negatively impact the model's ability to generalize to new data. Something I could have donw is ensure that my dataset was representative and contained enough samples for each class.
     
           - What steps did you take in your attempts to increase model performance?
     
